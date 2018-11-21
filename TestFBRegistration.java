@@ -9,7 +9,7 @@ public class TestFacebookRegistration {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.setProperty("webdriver.chrome.driver", "C:\\Users\\exu\\Desktop\\AutomationBrowser\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Desktop\\AutomationBrowser\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.get("http://www.facebook.com");
 		driver.manage().window().maximize();
