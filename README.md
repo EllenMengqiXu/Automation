@@ -4,7 +4,7 @@
 
 ---
 
-This project focused on how to use automation brower tool - selenium to download file from website on a daily basis.
+This project focused on how to use automation brower tool - selenium to test websites.
 
 **Prerequisites**
 1. Java
